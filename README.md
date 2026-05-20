@@ -139,3 +139,8 @@ mediguard-ai/
 ## ⚠️ Disclaimer
 
 FAERS reports indicate **suspected associations** — they do not confirm causation. All predictions and risk scores in this app are for analytical and educational purposes only and **do not constitute medical advice**.
+
+---
+
+## 👥 Team
+Ahmed Shehab · Sama Abdelbary · Mina Magdy · Shahd Yousery · Malak Abdelkader
